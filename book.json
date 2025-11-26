@@ -18,5 +18,25 @@
     "condition": "iyuyiuy",
     "description": "huuuuuuuuuuuu",
     "sold": false
+  },
+  {
+    "id": 3,
+    "title": "oooooooooooooooo",
+    "titleAze": "oooooooooo",
+    "author": "oooooooooooooooooooo",
+    "authorAze": "iiiiiiiiiiiiiiiiiiiiiiiiii",
+    "price": 987,
+    "discPrice": 32,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZSzL840E0yGVbK7RFBAu4pxKGZHHBBiNsA&s",
+    "addedDate": "2022-09-08",
+    "genre": "bbbbbbbbbbbbb",
+    "language": "nnnnnnnnnn",
+    "publisher": "vvvvvvvvvvvv",
+    "year": 88,
+    "cover": "uyoiuyoiuy",
+    "pages": 787,
+    "condition": "iyuyiuy",
+    "description": "zzzzzzzzzz",
+    "sold": false
   }
 ]
