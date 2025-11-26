@@ -1,4 +1,4 @@
-const booksJson = `[
+[
   {
     "id": 2,
     "title": "looool",
@@ -39,7 +39,4 @@ const booksJson = `[
     "description": "zzzzzzzzzz",
     "sold": false
   }
-]`
-
-const books = JSON.parse(booksJson)
-console.log(books)
+]
