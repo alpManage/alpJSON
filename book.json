@@ -38,5 +38,25 @@
     "condition": "iyuyiuy",
     "description": "zzzzzzzzzz",
     "sold": false
+  },
+  {
+    "id": 3,
+    "title": "uuuuuuu",
+    "titleAze": "iiiiiiiiiiiiii",
+    "author": "yyyyyyyyyy",
+    "authorAze": "hhhhhhhhhhh",
+    "price": 78,
+    "discPrice": 77,
+    "image": "uuuuuuuuuuuuuuu",
+    "addedDate": "7778-07-07",
+    "genre": "yuiyiu",
+    "language": "yugyug",
+    "publisher": "hbjhbj",
+    "year": 78,
+    "cover": "uyhguyh",
+    "pages": 8778,
+    "condition": "yguyg",
+    "description": "yuguyguy",
+    "sold": false
   }
 ]
