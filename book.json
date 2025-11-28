@@ -78,5 +78,25 @@
     "description": "1981-ci ildə nəşr olunmuş bu izomaterialda Nəbi Xəzri Sumqayıt sakinlərinin gündəlik həyatını, əmək və sosial mühitini poetik və təsirli şəkildə təsvir edir. Y. Şamilovun fotoları isə şəhərin insanlarını, onların iş və istirahət anlarını, həmçinin sürətlə dəyişən həyat tərzini canlı və emosional şəkildə əks etdirir.\nBu nəşr Sumqayıtın sovet dövründəki sosial portretini və insanlarının həyat tərzini dərindən anlamaq istəyənlər üçün nadir və qiymətli sənəd xarakteri daşıyır.",
     "sold": false,
     "discPrice": 0
+  },
+  {
+    "id": 5,
+    "title": "Simpsonlar ve Felsefe",
+    "titleAze": "Simpsonlar və fəlsəfə",
+    "author": "William Irwin",
+    "authorAze": "Vilyam İrvin",
+    "price": 12,
+    "discPrice": 0,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNfYrF_xE5PMGwr5dSj4-K2hm8a3QxB-ecpjJBpbRrJSWHJuHIRt_6S-Bi0jX3QHuc5U7QZmuoD7bWa9HBj1puXM1sFFwJ18-xRYyeMEKb68NvQvBKRBy59kIZl0u5brlQuanOZPzlyqAoTMyPCiIfpdw=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "fəlsəfə",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Güncel",
+    "year": 2003,
+    "cover": "incə",
+    "pages": 268,
+    "condition": "çox yaxşı",
+    "description": "Kitab məşhur \"Simpsonlar\" animasiya seriyasını fəlsəfi prizmadan nəzərdən keçirərək, Homer, Liza, Bart və digər personajların davranışları vasitəsilə etik, məntiqi və metafizik sualları şərh edir. Əsər pop mədəniyyətlə fəlsəfi analizi birləşdirərək gündəlik həyatın dərin intelektual strukturlarını üzə çıxarır.\n",
+    "sold": true
   }
 ]
