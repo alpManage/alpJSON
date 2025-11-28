@@ -137,5 +137,24 @@
     "condition": "yeni",
     "description": "Kitab 27 yaşlı Luiza Klarkın həyatından, sevdiyi insana sədaqətindən bəhs edir. O, qəza nəticəsində iflic olmuş imkanlı bir oğlana – Bil Treynora qulluq edir.  Zamanla bu münasibət daha da dərinləşir və yeni bir sevgi romanı başlayır. Lakin həyat hər zaman bizim istədiklərimizi vermir ki... Həyatın çarxı qəfil dönə də bilər...",
     "sold": false
+  },
+  {
+    "id": 8,
+    "title": "Yeni Başlayanlar İçin Che Guevara",
+    "titleAze": "Yeni başlayanlar üçün Çe Gevara",
+    "author": "Sergio Sinay, Miguel Angel Scenna",
+    "authorAze": "Serxio Sinay, Migel Anxel Sçenna",
+    "price": 6,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMIa4p6b-zl6JYqA3WXJOpSJuaFMlmZ-nqGPisvp5VnJVkzNxq-KN_QUrHS2FfYo4OjBdS-Iw503ihsso28Q3bKJWxP7s_ig6YPnzcYdmqKoWwXxuBrHJvKS4lyhAfx2Ol34qz35JvPBJwAjk2OUPt4pA=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "tarix",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Milliyet",
+    "year": 1999,
+    "cover": "incə",
+    "pages": 176,
+    "condition": "yeni kimi",
+    "description": "Bu kitab təkcə Çe Gevaranın həyatını deyil, eyni zamanda onun ideallarını və inqilabi ruhunu da anlamaq istəyənlər üçün bir bələdçi xüsusiyyətindədir.",
+    "sold": false
   }
 ]
