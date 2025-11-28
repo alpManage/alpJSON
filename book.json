@@ -232,5 +232,24 @@
     "condition": "çox yaxşı",
     "description": "ABŞ-nin Milli Təhlükəsizlik Agentliyinin məlumat ba­zasına təhlükəli bir virus düşür. Təbii ki, əvvəl heç kim buna ciddi reaksiya vermir. Axı bu super­dövlətin bütün gizli sir­lərinin toplandığı məlumat bankı dördqat, beşqat kiber­qalxanla müdafiə olun­muşdur. Bu virtual müdafiə qalxanını heç bir virus, heç bir xa­ker keçə bilməz. Lakin bir ne­çə saatdan sonra vəziyyət gərginləşir, məlum olur ki, MTA-nın ən məxfi, ən sürətli şifrəaçan kompüteri yeni, “Rəqəmsal qala” adlı virusun şifrəsini açmaqda acizdir…",
     "sold": false
+  },
+  {
+    "id": 13,
+    "title": "Tanrılar Kadınken",
+    "titleAze": "Tanrılar qadın ikən",
+    "author": "Merlin Stone",
+    "authorAze": "Merlin Ston",
+    "price": 35,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOxhtvY-hJVeeL8DNaGhjsHQY0NbuJaiKswmwJoRE2m5rekgAxoYP6dAFL6yDFq2PabGWU1Rb54KG78-tdOBwud-w-93hdx6OTG6YxQ-FVqIP0gM85_EURwY8ZfadW9FEXevDkUidc5p7jAc5s1S94KTA=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "fəlsəfə",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Payel",
+    "year": 2000,
+    "cover": "incə",
+    "pages": 294,
+    "condition": "çox yaxşı",
+    "description": "Bu kitabda qədim sivilizasiyalarda qadın ilahiyyatının mərkəzi rolu nəzərdən keçirilir. Feminist ilahiyyatçı olan müəllif göstərir ki, zamanla patriarxal sistem qadınların təsirini aradan qaldırıb. Kitab qədim mifologiya və arxeoloji tapıntılar vasitəsilə tarixi yenidən oxumağa dəvət edir. Tarixi və mədəni baxış bucağınızı dəyişəcək bir əsərdir.",
+    "sold": false
   }
 ]
