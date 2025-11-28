@@ -175,5 +175,24 @@
     "condition": "çox yaxşı",
     "description": "Molyerin “Xəsis” əsəri insanın pul və maddi sərvətə olan həddindən artıq bağlılığını tənqid edir. Komediya vasitəsilə qəhrəmanın öz maraqları və qısqanclığı ilə ailəsi və cəmiyyəti üzərində yaratdığı gülünc vəziyyətləri göstərir. Əsər həm əyləndirir, həm də ibrətamiz dərs verir.",
     "sold": false
+  },
+  {
+    "id": 10,
+    "title": "Korku",
+    "titleAze": "Qorxu",
+    "author": "Pierre Mannoni",
+    "authorAze": "Pyer Mannoni",
+    "price": 3,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMYRhpvkDNKfD51xmj9PtaRz7J-C2oUpK0rsBnX8JEzgmGGejdb3rbAEN548wuvBDFAOEFlkXasFhikCDeMkCh6toiDaZkqBIO8yTp0HvdczKO-GstjRublLMQ3HxMwmXFWxCifgdEn0-j_BKnI5X5m8Q=w1439-h1407-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "elm",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "İletişim",
+    "year": 1991,
+    "cover": "incə",
+    "pages": 112,
+    "condition": "yaxşı",
+    "description": "Bu kitab qorxunun psixoloji və bioloji mexanizmlərinə işıq salır. Mannoni insanın ən dərin hisslərindən biri olan qorxunun necə formalaşdığını, davranışa və qərarlara necə təsir etdiyini elmi və analitik üslubda izah edir.",
+    "sold": false
   }
 ]
