@@ -57,7 +57,7 @@
     "condition": "çox yaxşı",
     "description": "Kyerkeqor heç kimin dünyada baş verən müsibətlərin fərqində olmadığını yazırdı. Yanan bir teatr binasında insanları təhlükədən xəbərdar etməyə çalışan hoqqabazı düşünün. İnsanlar nəinki ona inanar, hətta gülərək alqışlayardı. Kyerkeqorun fikrincə, dünya da məhz bu cür, baş verənlərin zarafat olduğunu düşünən insanların alqışları arasında yox olub gedəcəkdi.",
     "sold": true,
-    "discPrice": 0
+    "discPrice": null
   },
   {
     "id": 4,
