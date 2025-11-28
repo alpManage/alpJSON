@@ -156,5 +156,24 @@
     "condition": "yeni kimi",
     "description": "Bu kitab təkcə Çe Gevaranın həyatını deyil, eyni zamanda onun ideallarını və inqilabi ruhunu da anlamaq istəyənlər üçün bir bələdçi xüsusiyyətindədir.",
     "sold": false
+  },
+  {
+    "id": 9,
+    "title": "Cimri",
+    "titleAze": "Xəsis",
+    "author": "Moliere",
+    "authorAze": "Molyer",
+    "price": 3,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOwFE1sfxyl1Xr1ZDAYBLV13ridJStB1GwV938hqmg97hcgN_I66gwQls-aobVaNVp3peJJb9yrkn6vkUpqbR-WPbDyEzxN7gQ7dYWo1VXlUx8Qq6-hfudRhqYyzOQ9wNAx5gfZPDTyIWcGLfWd4IpIBA=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "bədii ədəbiyyat",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Remzi",
+    "year": 2006,
+    "cover": "incə",
+    "pages": 118,
+    "condition": "çox yaxşı",
+    "description": "Molyerin “Xəsis” əsəri insanın pul və maddi sərvətə olan həddindən artıq bağlılığını tənqid edir. Komediya vasitəsilə qəhrəmanın öz maraqları və qısqanclığı ilə ailəsi və cəmiyyəti üzərində yaratdığı gülünc vəziyyətləri göstərir. Əsər həm əyləndirir, həm də ibrətamiz dərs verir.",
+    "sold": false
   }
 ]
