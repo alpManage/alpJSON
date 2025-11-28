@@ -194,5 +194,24 @@
     "condition": "yaxşı",
     "description": "Bu kitab qorxunun psixoloji və bioloji mexanizmlərinə işıq salır. Mannoni insanın ən dərin hisslərindən biri olan qorxunun necə formalaşdığını, davranışa və qərarlara necə təsir etdiyini elmi və analitik üslubda izah edir.",
     "sold": false
+  },
+  {
+    "id": 11,
+    "title": "Talış dilinin leksikası",
+    "titleAze": null,
+    "author": "Əbülfəz Rəcəbli",
+    "authorAze": null,
+    "price": 15,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMusgR5IxM6Lo6pBXnljGYvHI50Lzl6eDaEvEsNQQq-juhn_IvDj4tnbYxx2qQLjdOnR7neiypwrPbeNx7Sfxbe6iDOla49EGYnI7BlwxZtOILkoARL0nKB6tTtcMdRyCYBI-T8rheGz0Xv3Df1-cisDQ=w1418-h1416-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "dilçilik",
+    "language": "Azərbaycan türkcəsi",
+    "publisher": "Optimist",
+    "year": 2023,
+    "cover": "qalın",
+    "pages": 192,
+    "condition": "yeni",
+    "description": "Kitabda talış dilində çoxmənalı sözlər, omonimlər, sinonimlər, antonimlər haqqında ətraflı məlumat verilir, qohum dillərlə şərikli, müştərək sözlərdən danışılır, ümumxalq leksikası, peşə-sənət leksikası, köhnəlmiş sözlər araşdırılır, talış dilinin frazeologiyası məsələləri (idiomlar, ibarələr, sintaktik strukturlu frazeologizmlər, hikmətli sözlər, atalar sözləri, zərb məsəlləri) tədqiq edilir, lüğətçilik məsələləri nəzərdən keçirilir, söz yaradıcılığı məsələləri araşdırılır.",
+    "sold": false
   }
 ]
