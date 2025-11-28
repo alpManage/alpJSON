@@ -251,5 +251,24 @@
     "condition": "çox yaxşı",
     "description": "Bu kitabda qədim sivilizasiyalarda qadın ilahiyyatının mərkəzi rolu nəzərdən keçirilir. Feminist ilahiyyatçı olan müəllif göstərir ki, zamanla patriarxal sistem qadınların təsirini aradan qaldırıb. Kitab qədim mifologiya və arxeoloji tapıntılar vasitəsilə tarixi yenidən oxumağa dəvət edir. Tarixi və mədəni baxış bucağınızı dəyişəcək bir əsərdir.",
     "sold": false
+  },
+  {
+    "id": 14,
+    "title": "Arsen Lüpen — Kibar Hırsız",
+    "titleAze": "Arsen Lüpen — alicənab soyğunçu",
+    "author": "Maurice LeBlanc",
+    "authorAze": "Moris Leblan",
+    "price": 5,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNH0xKUaCbj_wcs3wAiPQGwob1HJO-LS8GmGXw2HlqjVSJxTEPJqB-pdzRywbw3RsX_90pRiKkuUV1FRp_yANXCxMVt8uKJBmayrgOvg5YCYkwpYSFZYJQVbexX2spaIzs8Qbw-YE71-x5GM0_IlNOwkg=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "bədii ədəbiyyat",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Ren Kitap",
+    "year": 2021,
+    "cover": "incə",
+    "pages": 208,
+    "condition": "yeni kimi",
+    "description": "Bu əsər fransız yazıçısı Moris Leblana dünya şöhrəti qazandırmış detektivlər seriyasından ilk kitabdır. Yalnız öz əxlaq kodeksinə tabe olan mahir soyğunçu heç vaxt təslim olmur. Elə buna görə də yenilməz ingilis xəfiyyəsi Şerlok Şolmsla yolları kəsişəndə “polis və oğru” oyunu xüsusilə cəlbedici olur. Alicənab soyğunçu Beyker-stritdən olan məşhur centlmeni aldada biləcəkmi? Hər necə olursa olsun, amma, demək olar, bir əsrdir ki, Moris Leblanın və onun cazibədar qəhrəmanı Arsen Lupenin milyonlarla pərəstişkarı bu mübarizənin gedişini həyəcanla izləyir.",
+    "sold": false
   }
 ]
