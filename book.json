@@ -117,5 +117,25 @@
     "condition": "yeni kimi",
     "description": "Bu əsərdə türk dillərinin frazeologiyası elmi əsaslarla təhlil edilir. Frazeoloji vahidlərin əmələgəlmə tarixi, semantik inkişafı və müxtəlif türk dillərindəki oxşar və fərqli cəhətləri müqayisəli şəkildə araşdırılır. Dilçilik və türkoloji tədqiqatlarla maraqlananlar üçün dəyərli mənbədir.",
     "sold": false
+  },
+  {
+    "id": 7,
+    "title": "Səndən sonra",
+    "titleAze": null,
+    "author": "Jojo Moyes",
+    "authorAze": null,
+    "price": 11.99,
+    "discPrice": 7.99,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMwjdilD0GLPTuXNTeSmqbOswl6GddoilgBKs-XxEFcqrza1bTvFRKxIQqCDerd-uWpxAIhJm2_C8BPARQVLs9Ir7cKOqolAm2GEoJ2-v7UeQ4Kz_E6D621toJxA9A17C7Hsy7p54tqhmAmK9jC8-TjYg=w1200-h1600-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "bədii ədəbiyyat",
+    "language": "Azərbaycan türkcəsi",
+    "publisher": "Qanun",
+    "year": 2016,
+    "cover": "qalın",
+    "pages": 480,
+    "condition": "yeni",
+    "description": "Kitab 27 yaşlı Luiza Klarkın həyatından, sevdiyi insana sədaqətindən bəhs edir. O, qəza nəticəsində iflic olmuş imkanlı bir oğlana – Bil Treynora qulluq edir.  Zamanla bu münasibət daha da dərinləşir və yeni bir sevgi romanı başlayır. Lakin həyat hər zaman bizim istədiklərimizi vermir ki... Həyatın çarxı qəfil dönə də bilər...",
+    "sold": false
   }
 ]
