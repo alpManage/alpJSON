@@ -213,5 +213,24 @@
     "condition": "yeni",
     "description": "Kitabda talış dilində çoxmənalı sözlər, omonimlər, sinonimlər, antonimlər haqqında ətraflı məlumat verilir, qohum dillərlə şərikli, müştərək sözlərdən danışılır, ümumxalq leksikası, peşə-sənət leksikası, köhnəlmiş sözlər araşdırılır, talış dilinin frazeologiyası məsələləri (idiomlar, ibarələr, sintaktik strukturlu frazeologizmlər, hikmətli sözlər, atalar sözləri, zərb məsəlləri) tədqiq edilir, lüğətçilik məsələləri nəzərdən keçirilir, söz yaradıcılığı məsələləri araşdırılır.",
     "sold": false
+  },
+  {
+    "id": 12,
+    "title": "Цифровая крепость",
+    "titleAze": "Rəqəmsal qala",
+    "author": "Дэн Браун",
+    "authorAze": "Den Braun",
+    "price": 7,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOdqhu_nGf_TD5QA4OEmDJHFPhK_OfPwVTy2dMbpb2IY5q-l-QvL0iLrA_lkrMTEYe1HSCBPP8BsO5g-3Z8hcnlO0D1BRdvyeeHTzsCgElkBQDt5L2IN--v1My0A1HgMUwVApqlq0IVu7jrOlEoDWFfmA=w1439-h1439-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "bədii ədəbiyyat",
+    "language": "rusca",
+    "publisher": "AST Publishers",
+    "year": 2010,
+    "cover": "qalın",
+    "pages": 480,
+    "condition": "çox yaxşı",
+    "description": "ABŞ-nin Milli Təhlükəsizlik Agentliyinin məlumat ba­zasına təhlükəli bir virus düşür. Təbii ki, əvvəl heç kim buna ciddi reaksiya vermir. Axı bu super­dövlətin bütün gizli sir­lərinin toplandığı məlumat bankı dördqat, beşqat kiber­qalxanla müdafiə olun­muşdur. Bu virtual müdafiə qalxanını heç bir virus, heç bir xa­ker keçə bilməz. Lakin bir ne­çə saatdan sonra vəziyyət gərginləşir, məlum olur ki, MTA-nın ən məxfi, ən sürətli şifrəaçan kompüteri yeni, “Rəqəmsal qala” adlı virusun şifrəsini açmaqda acizdir…",
+    "sold": false
   }
 ]
