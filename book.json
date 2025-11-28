@@ -98,5 +98,24 @@
     "condition": "çox yaxşı",
     "description": "Kitab məşhur \"Simpsonlar\" animasiya seriyasını fəlsəfi prizmadan nəzərdən keçirərək, Homer, Liza, Bart və digər personajların davranışları vasitəsilə etik, məntiqi və metafizik sualları şərh edir. Əsər pop mədəniyyətlə fəlsəfi analizi birləşdirərək gündəlik həyatın dərin intelektual strukturlarını üzə çıxarır.\n",
     "sold": true
+  },
+  {
+    "id": 6,
+    "title": "Türk dillərinin frazeologiyası (2 cilddə)",
+    "titleAze": null,
+    "author": "Məhəbbət Mirzəliyeva",
+    "authorAze": null,
+    "price": 10,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPUa5bmhZYPZbRNhKGWbUatHqmuEBFua9rfAcaNtmZNGY57bJBJSWilk0Dazcns7u1J3ZpypnRP2x7kSjRSphUnzTvT6pxaWOOpL9bNrpqEw-viqt-ZEQqGnEl6baLXeLwOAOK_9E1KHnTt4EaJsyqG_A=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-28",
+    "genre": "dilçilik",
+    "language": "Azərbaycan türkcəsi",
+    "publisher": "Nurlan",
+    "year": 2009,
+    "cover": "qalın",
+    "pages": 516,
+    "condition": "yeni kimi",
+    "description": "Bu əsərdə türk dillərinin frazeologiyası elmi əsaslarla təhlil edilir. Frazeoloji vahidlərin əmələgəlmə tarixi, semantik inkişafı və müxtəlif türk dillərindəki oxşar və fərqli cəhətləri müqayisəli şəkildə araşdırılır. Dilçilik və türkoloji tədqiqatlarla maraqlananlar üçün dəyərli mənbədir.",
+    "sold": false
   }
 ]
