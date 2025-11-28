@@ -327,5 +327,24 @@
     "condition": "yaxşı",
     "description": "666666666666",
     "sold": false
+  },
+  {
+    "id": 18,
+    "title": "uuuuuuuuuuuuuu",
+    "titleAze": null,
+    "author": "uuuuuuuuuuuu",
+    "authorAze": null,
+    "price": 6878,
+    "image": "https://dummyimage.com/200x300/111/fff&text=1984",
+    "addedDate": "2025-11-28",
+    "genre": "uuuuuuuuuu",
+    "language": "uuuuuuuuuu",
+    "publisher": "uuuuuuuuu",
+    "year": 1900,
+    "cover": "incə",
+    "pages": 78687,
+    "condition": "çox yaxşı",
+    "description": "yyyyyyyyyyyyy",
+    "sold": false
   }
 ]
