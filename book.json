@@ -327,5 +327,24 @@
     "condition": "çox yaxşı",
     "description": "Bu psixopatlar bəzən ailəmizdə, bəzən iş mühitimizdə, bəzən də həyatımızdakı qadın və ya kişi ola bilər. Psixopatların bir-birindən fərqli bir çox xüsusiyyəti olmasına baxmayaraq, bəlkə də, yeganə ortaq nöqtələri cəmiyyəti məhv edə biləcək, bir çox emosional anormal xüsusiyyət və antisosial davranışlar göstərmələridir.",
     "sold": false
+  },
+  {
+    "id": 18,
+    "title": "Din Psikolojisi",
+    "titleAze": "Din psixologiyası",
+    "author": "Hayati Hökelekli",
+    "authorAze": "Hayati Hökelekli",
+    "price": 6,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMrfKAEcY65FrIyYvZgusmYZ4jDpzVbGod6Gke8TCfQ7dkPehDHtdP1_3kTNuhHftUU14m9J6ifItlOA9JwRtUH6C7ZB0BrPzhEXvqONWvfvMcJMnoWKGtVN0PJTe6-ZC2RxpPH_iEq6pUvE1Q5vVtPMw=w1200-h1600-s-no-gm?authuser=0",
+    "addedDate": "2025-11-29",
+    "genre": "psixologiya",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Türkiyə Dəyanət Vəqfi",
+    "year": 2013,
+    "cover": "incə",
+    "pages": 370,
+    "condition": "çox yaxşı",
+    "description": "Din ən qədim zamanlardan bəri insanın və cəmiyyətin həyatında mərkəzi yer tutur. Müasir dövrdə ənənəvi dini strukturlar zəifləyir, halbuki imanın fərdi və mənəvi tərəfinə maraq güclənir. Kitab dini təcrübəyə şəxsiyyət baxımından yanaşır, iman, xarakter və dindarlıq formaları arasındakı qarşılıqlı əlaqəni araşdırır. Bu kitab sadə və anlaşılan dildə yazılıb və həm mövzu ilə maraqlanan geniş auditoriya üçün, həm də biliklərini dərinləşdirmək istəyən tələbələr üçün nəzərdə tutulub. \nKitabın ümumi vəziyyəti çox yaxşıdır. Sadəcə, ilk 30 səhifədə çəkilmiş sətiraltı xətlər mövcuddur. ",
+    "sold": true
   }
 ]
