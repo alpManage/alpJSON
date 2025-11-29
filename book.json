@@ -270,5 +270,24 @@
     "condition": "yeni kimi",
     "description": "Bu əsər fransız yazıçısı Moris Leblana dünya şöhrəti qazandırmış detektivlər seriyasından ilk kitabdır. Yalnız öz əxlaq kodeksinə tabe olan mahir soyğunçu heç vaxt təslim olmur. Elə buna görə də yenilməz ingilis xəfiyyəsi Şerlok Şolmsla yolları kəsişəndə “polis və oğru” oyunu xüsusilə cəlbedici olur. Alicənab soyğunçu Beyker-stritdən olan məşhur centlmeni aldada biləcəkmi? Hər necə olursa olsun, amma, demək olar, bir əsrdir ki, Moris Leblanın və onun cazibədar qəhrəmanı Arsen Lupenin milyonlarla pərəstişkarı bu mübarizənin gedişini həyəcanla izləyir.",
     "sold": false
+  },
+  {
+    "id": 15,
+    "title": " Paris Komünü",
+    "titleAze": "Paris kommunası",
+    "author": "Jacques Rougerie",
+    "authorAze": "Jak Rujeri",
+    "price": 4,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP6d_Z5ubuPhwRQYbBgL0bk39oLpx2a-CxhmLfybSvD1bfrRUm50M-2r_8i67K8GK_ipX0z2mkz4irtHkUfgiJFnZIcqlGLwYlMi-PE4IxA0MJHuWSy2rFHTpkLB0w_qo7WxdvFTAk5JIALxnO2vYeH5w=w1439-h1407-s-no-gm?authuser=0",
+    "addedDate": "2025-11-29",
+    "genre": "tarix",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "İletişim",
+    "year": 1993,
+    "cover": "incə",
+    "pages": 134,
+    "condition": "yeni kimi",
+    "description": "Bu kitab 1871-ci il Paris kommunası — özünüidarə və sosial ədalət sahəsində cəsarətli, lakin faciəvi bir təcrübə haqqında danışır. Bu, mübarizə, ideallar və azadlığın qiyməti haqqında maraqlı bir tarixi tədqiqatdır.",
+    "sold": false
   }
 ]
