@@ -289,5 +289,24 @@
     "condition": "yeni kimi",
     "description": "Bu kitab 1871-ci il Paris kommunası — özünüidarə və sosial ədalət sahəsində cəsarətli, lakin faciəvi bir təcrübə haqqında danışır. Bu, mübarizə, ideallar və azadlığın qiyməti haqqında maraqlı bir tarixi tədqiqatdır.",
     "sold": false
+  },
+  {
+    "id": 16,
+    "title": "Rus İmparatorluk Stratejisi",
+    "titleAze": "Rusiya imperiya strategiyası",
+    "author": "Mesut Hakkı Caşın",
+    "authorAze": "Mesut Hakkı Caşın",
+    "price": 15,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNMYPoH3L3L22UJAPiZ6BceWjdXSgv8uoiI0vlejvY-kF8DBoVNsi8Mx0yNKFu1EasIKHKEmaBQLl-7f9y9QCkBjoc7RMm3_tXlNdpisuRrL7xu-4GSJVxnOTS8Vr5DEcwAUT3TDRyAlJtl4tJ9N-da5w=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-29",
+    "genre": "politologiya",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "ASAM",
+    "year": 2002,
+    "cover": "incə",
+    "pages": 434,
+    "condition": "yeni kimi",
+    "description": "Bu elm işdə Rusiyanın yarandığı andan XXI əsrə qədər beynəlxalq münasibətlər kontekstində strateji addımları təhlil edilir. Xüsusi diqqət Sovet İttifaqının Rusiya Federasiyasına transformasiyasına və onun strateji və siyasi üstünlüklərinin dəyişməsinə ayrılıb. Tədqiqat Rusiyanın dünya arenasındakı rolunu anlamağa və onun gələcəyinin mümkün ssenarilərini proqnozlaşdırmağa imkan verir.",
+    "sold": false
   }
 ]
