@@ -308,5 +308,24 @@
     "condition": "yeni kimi",
     "description": "Bu elm işdə Rusiyanın yarandığı andan XXI əsrə qədər beynəlxalq münasibətlər kontekstində strateji addımları təhlil edilir. Xüsusi diqqət Sovet İttifaqının Rusiya Federasiyasına transformasiyasına və onun strateji və siyasi üstünlüklərinin dəyişməsinə ayrılıb. Tədqiqat Rusiyanın dünya arenasındakı rolunu anlamağa və onun gələcəyinin mümkün ssenarilərini proqnozlaşdırmağa imkan verir.",
     "sold": false
+  },
+  {
+    "id": 17,
+    "title": "Hayatımızdaki Psikopatlar",
+    "titleAze": "Həyatımızdakı psixopatlar",
+    "author": "Kerry Daynes, Jessica Fellowes",
+    "authorAze": "Kerri Deyns, Cessika Fellouz",
+    "price": 7,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNOGUW9vyoPQJdOCEUxa_p96AxYBnxdEWZuBuChYx8JsY3YnQPw5C8J9l_2p7baW_G1UGli_abLbynspZ27wQQDdU9xgez0GoHLUYePpucxmtj-SAvsVFKFV1bJujU0H5cnIT9EOhujm8FQpw6lHm_bgg=w1439-h1918-s-no-gm?authuser=0",
+    "addedDate": "2025-11-29",
+    "genre": "psixologiya",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "NTV",
+    "year": 2015,
+    "cover": "incə",
+    "pages": 264,
+    "condition": "çox yaxşı",
+    "description": "Bu psixopatlar bəzən ailəmizdə, bəzən iş mühitimizdə, bəzən də həyatımızdakı qadın və ya kişi ola bilər. Psixopatların bir-birindən fərqli bir çox xüsusiyyəti olmasına baxmayaraq, bəlkə də, yeganə ortaq nöqtələri cəmiyyəti məhv edə biləcək, bir çox emosional anormal xüsusiyyət və antisosial davranışlar göstərmələridir.",
+    "sold": false
   }
 ]
