@@ -346,5 +346,24 @@
     "condition": "çox yaxşı",
     "description": "Din ən qədim zamanlardan bəri insanın və cəmiyyətin həyatında mərkəzi yer tutur. Müasir dövrdə ənənəvi dini strukturlar zəifləyir, halbuki imanın fərdi və mənəvi tərəfinə maraq güclənir. Kitab dini təcrübəyə şəxsiyyət baxımından yanaşır, iman, xarakter və dindarlıq formaları arasındakı qarşılıqlı əlaqəni araşdırır. Bu kitab sadə və anlaşılan dildə yazılıb və həm mövzu ilə maraqlanan geniş auditoriya üçün, həm də biliklərini dərinləşdirmək istəyən tələbələr üçün nəzərdə tutulub. \nKitabın ümumi vəziyyəti çox yaxşıdır. Sadəcə, ilk 30 səhifədə çəkilmiş sətiraltı xətlər mövcuddur. ",
     "sold": true
+  },
+  {
+    "id": 19,
+    "title": "Janus'un Yüzleri — 20. Yüzyılın İkiz Kardeşleri: Marksizm ve Faşizm",
+    "titleAze": "Yanusun üzləri — XX əsrin əkiz qardaşları: marksizm və faşizm",
+    "author": "A. James Gregor",
+    "authorAze": "E. Ceyms Qreqor",
+    "price": 7,
+    "image": "https://ik.imagekit.io/turanbook/20251202_020956_0000.jpg",
+    "addedDate": "2025-12-01",
+    "genre": "tarix",
+    "language": "Türkiyə türkcəsi",
+    "publisher": "Gelenek",
+    "year": 2003,
+    "cover": "incə",
+    "pages": 274,
+    "condition": "çox yaxşı",
+    "description": "Qreqor iddia edir ki, ümumi qəbul edilmiş radikal qarşıdurma təsəvvürünə baxmayaraq, marksizm və faşizm ortaq ideoloji köklərə və oxşar siyasi təcrübələrə malikdirlər. Yevgenist XX əsrdə hər iki hərəkatın dövlət, inqilab və kollektiv səfərbərlik haqqında oxşar təsəvvürlərdən qidalandığını göstərir. Kitab totalitar ideologiyaların tarixinə qeyri-standart, polemik baxış təklif edərək, adi siyasi kateqoriyaları yenidən dərk etməyə məcbur edir.",
+    "sold": false
   }
 ]
