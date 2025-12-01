@@ -349,7 +349,7 @@
   },
   {
     "id": 19,
-    "title": "uuuuuuuuuu",
+    "title": "oooooooo",
     "titleAze": null,
     "author": "uuuuuuuuuuu",
     "authorAze": null,
@@ -362,8 +362,9 @@
     "year": 1900,
     "cover": "incə",
     "pages": 798,
-    "condition": "yaxşı",
+    "condition": "qənaətbəxş",
     "description": "uuuuuuuuuuuuuuuuu",
-    "sold": false
+    "sold": false,
+    "discPrice": null
   }
 ]
