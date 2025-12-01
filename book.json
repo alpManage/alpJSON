@@ -346,5 +346,24 @@
     "condition": "çox yaxşı",
     "description": "Din ən qədim zamanlardan bəri insanın və cəmiyyətin həyatında mərkəzi yer tutur. Müasir dövrdə ənənəvi dini strukturlar zəifləyir, halbuki imanın fərdi və mənəvi tərəfinə maraq güclənir. Kitab dini təcrübəyə şəxsiyyət baxımından yanaşır, iman, xarakter və dindarlıq formaları arasındakı qarşılıqlı əlaqəni araşdırır. Bu kitab sadə və anlaşılan dildə yazılıb və həm mövzu ilə maraqlanan geniş auditoriya üçün, həm də biliklərini dərinləşdirmək istəyən tələbələr üçün nəzərdə tutulub. \nKitabın ümumi vəziyyəti çox yaxşıdır. Sadəcə, ilk 30 səhifədə çəkilmiş sətiraltı xətlər mövcuddur. ",
     "sold": true
+  },
+  {
+    "id": 19,
+    "title": "uuuuuuuuuu",
+    "titleAze": null,
+    "author": "uuuuuuuuuuu",
+    "authorAze": null,
+    "price": 78,
+    "image": "https://dummyimage.com/200x300/111/fff&text=1984",
+    "addedDate": "2025-12-01",
+    "genre": "yyyyyyyyy",
+    "language": "uuuuuuuuuu",
+    "publisher": "yyyyyyyyyyy",
+    "year": 1900,
+    "cover": "incə",
+    "pages": 798,
+    "condition": "yaxşı",
+    "description": "uuuuuuuuuuuuuuuuu",
+    "sold": false
   }
 ]
